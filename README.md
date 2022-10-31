@@ -5,5 +5,5 @@ NOTICE: the files in folder should be sorted
 
 ** for use put code in movie file and run it.
 ```
-python renamesubtitle.py
+python renameSubtitle.py
 ```
